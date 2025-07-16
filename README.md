@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on Frontend Development.<br>I am currently learning Backend Developement .
+Explorin something New .
 
 
 ## 🌐 Socials:
