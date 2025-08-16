@@ -24,4 +24,14 @@ Explorin something New .
 
 ---
 [![](https://visitcount.itsvg.in/api?id=007babayaga&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
