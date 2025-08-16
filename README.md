@@ -1,6 +1,12 @@
 # 💫 About Me:
 Explorin something New .
+## 🎮 GitHub Breakout
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajat-pratap-494736220) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chauhanrajat515@gmail.com) 
